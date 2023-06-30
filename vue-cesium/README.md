@@ -1,6 +1,6 @@
 # vue-cesium
 
-详细说明如何使用 Vue CLI 创建一个新的 Vue 项目
+详细说明如何使用 Vue CLI 创建一个新的 Vue 项目, 整合 cesium
 
 ## 步骤
 
